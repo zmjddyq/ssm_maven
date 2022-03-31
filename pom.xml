@@ -35,7 +35,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <ssm_maven.spring>5.2.5.RELEASE</ssm_maven.spring>
+        <ssm_maven.spring>5.3.18</ssm_maven.spring>
     </properties>
 
 
